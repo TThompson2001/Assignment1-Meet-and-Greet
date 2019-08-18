@@ -1,3 +1,5 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
@@ -71,6 +73,20 @@ public class SafeInput {
         } while (!done);
 
         return retVal;
+    }
+
+    public static String getString(Scanner console, String prompt) {
+        String retval = "";
+        // add Implementation here ⬇
+
+        return retval;
+    }
+
+    public static ArrayList<String> getArrayOfStrings(Scanner console, String prompt) {
+        ArrayList<String> retval = new ArrayList<>();
+        // add Implementation here ⬇
+
+        return retval;
     }
 
     public static int getRangedIntDialog(String prompt, int low, int high) {
