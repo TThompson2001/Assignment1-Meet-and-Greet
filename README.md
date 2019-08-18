@@ -18,6 +18,8 @@ You will be submitting a repository containing the following:
 ----
 ## Part 1: Writing to a text file:
 1. Create a program (java main class) called PortfolioGenerator.java.
+1. Complete the implementation of the `getString` and `getArrayOfStrings` functions in the SafeInput Library.
+1. For Extra Credit: Create a getEmail function that will validate the user Input. (Use Regular Expressions) [Example](https://howtodoinjava.com/regex/java-regex-validate-email-address/)
 2. The program will prompt the user (namely, you) to enter the following information
     1. Name
     2. Email
@@ -41,8 +43,10 @@ assignment)
 - [ ] The program runs with no errors.
 - [ ] The program uses ArrayList for the questions.
 - [ ] The program generates the text file in the above format.
-- [ ] **(2 EXTRA POINTS 🎊 🎉)**: If you Center your name as in the screenshot
-- [ ] **(1 EXTRA POINT 🎊 🎉)**: For a better-looking report format. (Be creative)
+- [ ] Correct implementation of the `getString` function
+- [ ] Correct implementation of the `getArrayOfStrings` function
+- [ ] **(1 EXTRA POINTS ⭐)**: If you Center your name as in the screenshot
+- [ ] **(2 EXTRA POINTS ⭐⭐)**: Correct Implementation of the `getEmailAddress` function in the SafeInput Library.
 
 ----
 ## Part 2: Reading from a file:
