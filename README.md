@@ -25,14 +25,14 @@ You will be submitting a repository containing the following:
     2. Email
     3. Personal Background
     4. Programming Languages
-      - You don’t know ahead of time how many languages the user knows. So, use
+        - You don’t know ahead of time how many languages the user knows. So, use
 an ArrayList to store the records.
-    - Once the user has indicated that they’ve entered all their languages, move on
+        - Once the user has indicated that they’ve entered all their languages, move on
 to the next question.
     5. Achievements and interests you would like to share
-    - Same as above, you don’t know how many achievements the user will share so
+        - Same as above, you don’t know how many achievements the user will share so
 use an ArrayList Here as well.
-    - Once the user has indicated that they’ve entered all their achievements, export
+        - Once the user has indicated that they’ve entered all their achievements, export
 a text file that looks like the screenshot attached.
 3. Use the SafeInput Library as needed to validate the user inputs; Block and Repeat until
 the user gets the input correct, do not terminate the script.
