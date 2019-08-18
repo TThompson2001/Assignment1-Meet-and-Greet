@@ -8,16 +8,13 @@ a. Be able to write a Java program that reads and writes text files.
 2. Review the SafeInput Library, developed in Computer Programming I (Tom Wulf’s section)
 3. Learn more about you.
 ### Final Result:
-You will be submitting a git repository, hosted on github.uc.edu, with the following naming
-convention, <your 6+2>-assignment1-meet-and-greet, (i.e., gilanyym-assignment1-meet-andgreet). The repository contains:
+You will be submitting a repository containing the following:
 1. one Java Project with the following files:
     1. PortfolioGenerator.java (has a main method)
     2. PersonReader.java (has a main method)
-    3. SafeInput.java (The source file is available with the assignment instructions on
-Blackboard)
+    3. SafeInput.java
     4. The output text file from the PortfolioGenerator program.
-2. README.md file that includes your self-assessment (A Sample README file is
-available with the assignment instructions on Blackboard)
+2. README.md file that includes your self-assessment
 ----
 ## Part 1: Writing to a text file:
 1. Create a program (java main class) called PortfolioGenerator.java.
