@@ -55,10 +55,10 @@ available with the assignment directions on Blackboard.)
 3. Use the String.format method to create a neatly formatted columnar display of the data
 records.
 ```
-username    Firstname   Lastname    email
+Firstname   Lastname    age     email
 ====================================================
-gilanyym    Yahya       Gilany      gilanyym@ucmail.uc.edu
-saidhm      Hazem       Said        saidhm@ucmail.uc.edu
+Francisco   Hughes      46      jielkop@vap.su
+Kathryn     Chapman     25      ije@hanugwe.as
 ```
 
 
