@@ -19,7 +19,7 @@ Blackboard)
 2. README.md file that includes your self-assessment (A Sample README file is
 available with the assignment instructions on Blackboard)
 ----
-##Part 1: Writing to a text file:
+## Part 1: Writing to a text file:
 1. Create a program (java main class) called PortfolioGenerator.java.
 2. The program will prompt the user (namely, you) to enter the following information
     1. Name
@@ -44,8 +44,8 @@ assignment)
 - [ ] The program runs with no errors.
 - [ ] The program uses ArrayList for the questions.
 - [ ] The program generates the text file in the above format.
-- [ ] (2 EXTRA POINTS 🎊 🎉): If you Center your name as in the screenshot
-- [ ] (1 EXTRA POINT 🎊 🎉): For a better-looking report format. (Be creative)
+- [ ] **(2 EXTRA POINTS 🎊 🎉)**: If you Center your name as in the screenshot
+- [ ] **(1 EXTRA POINT 🎊 🎉)**: For a better-looking report format. (Be creative)
 
 ----
 ## Part 2: Reading from a file:
