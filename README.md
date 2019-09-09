@@ -143,24 +143,24 @@ Kathryn     Chapman     25      ije@hanugwe.as
  
 ## Assignment Self Assessment:
 #### Reflection
-[//]: <> (share your thoughts on the assignment, things you learnt and would like to remember when you look back at this assignment)
+[//]: <> (share your thoughts on the assignment, things you learnt and would like to remember when you look back at this assignment) It's been quite a while since I've done any OOP espically java so I would say that I had more trouble than I should have. All though it most certainly not the best work I've ever done but I did enjoy the assignment, it was a nice warm up you could say. Also I'm not quite sure if the Safe input file was something from programming 1 but I kinda just deleted everything that I wasn't using and I hope that's ok.
 
 
 #### Self Assessment
 ##### Part 1:
-- [ ] The program runs with no errors.
-- [ ] The program uses ArrayLists.
-- [ ] The program generates the text file in the above format.
-- [ ] Correct implementation of the `getString` function
+- [x] The program runs with no errors.
+- [x] The program uses ArrayLists.
+- [kinda] The program generates the text file in the above format.
+- [x] Correct implementation of the `getString` function
 - [ ] Correct implementation of the `getArrayOfStrings` function
 - [ ] **(1 EXTRA POINTS ⭐)**: The name in the exported text file is centered
-- [ ] **(2 EXTRA POINTS ⭐⭐)**: Correct Implementation of the `getEmailAddress` function in the SafeInput Library.
+- [x] **(2 EXTRA POINTS ⭐⭐)**: Correct Implementation of the `getEmailAddress` function in the SafeInput Library.
 
 ##### Part 2:
-- [ ] The program runs with no errors.
-- [ ] The program properly uses the JFileChooser.
-- [ ] The program output is formatted properly.
+- [x] The program runs with no errors.
+- [x] The program properly uses the JFileChooser.
+- [kinda] The program output is formatted properly.
 
-**Your Grade:**  /20
+**Your Grade:**  14/20
 
 **Notes:**
